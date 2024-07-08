@@ -1,0 +1,8 @@
+Sample PDF with Hyperlinks
+Chapter 1: Introduction
+This is a sample PDF created to demonstrate adding hyperlinks and images with hyperlinks using
+the FPDF library.
+Click here to visit OpenAI
+Link to Image
+
+
